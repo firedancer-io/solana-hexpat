@@ -46,6 +46,7 @@ sync: $(addsuffix .json,$(HEXPAT_TESTS))
 # Define target to check out plcli artifacts
 artifacts/plcli: | artifacts
 artifacts:
+	git fetch origin artifacts
 	git checkout origin/artifacts -- artifacts
 	git rm -r --cached --quiet artifacts
 

@@ -9,3 +9,7 @@ insert_final_newline = true
 [*.hexpat]
 indent_style = tab
 indent_size = 8
+
+[.github/**/*.yml]
+indent_style = space
+indent_size = 2

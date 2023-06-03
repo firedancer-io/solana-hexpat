@@ -6,6 +6,21 @@ These are most commonly used with the [ImHex] hex editor.
   [hexpat]: https://docs.werwolv.net/pattern-language/
   [ImHex]:  https://github.com/WerWolv/ImHex
 
+![Vote Account parsed with ImHex](./.github/vote_account.png)
+
+## Usage
+
+1. Open [ImHex](https://github.com/WerWolv/ImHex)
+2. Open a binary blob (such as the contents of an account)
+3. Paste the appropriate pattern definition into the *Pattern Editor*
+4. Click play
+
+## Implemented Features
+
+- Solana Vote Program
+  - [solana_vote_account.hexpat](./patterns/solana_vote_account.hexpat)
+  - [solana_vote_instruction.hexpat](./patterns/solana_vote_instruction.hexpat)
+
 ## Attributions
 
 Thank you to [@WerWolv](https://github.com/WerWolv/ImHex) for creating the ImHex toolchain.

@@ -2,6 +2,7 @@ name: Test
 on:
   push:
   pull_request:
+  merge_group:
 jobs:
   hexpat-test:
     runs-on: ubuntu-latest

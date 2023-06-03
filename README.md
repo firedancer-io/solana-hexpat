@@ -17,6 +17,8 @@ These are most commonly used with the [ImHex] hex editor.
 
 ## Implemented Features
 
+- Solana Config Program
+  - [solana_config.hexpat](./patterns/solana_config.hexpat)
 - Solana Vote Program
   - [solana_vote_account.hexpat](./patterns/solana_vote_account.hexpat)
   - [solana_vote_instruction.hexpat](./patterns/solana_vote_instruction.hexpat)

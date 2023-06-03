@@ -1,0 +1,1 @@
+{"instruction":{"kind":11,"vote_authorize_checked_with_seed_args":{"authorization_type":"Solana::VoteAuthorize::Voter","current_authority_derived_key_owner":[0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"current_authority_derived_key_seed":{"len":10,"data":[87,82,79,78,71,95,83,69,69,68]}}}}
